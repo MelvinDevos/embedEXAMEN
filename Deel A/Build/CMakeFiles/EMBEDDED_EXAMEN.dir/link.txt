@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/EMBEDDED_EXAMEN.dir/main.c.o  -o EMBEDDED_EXAMEN 

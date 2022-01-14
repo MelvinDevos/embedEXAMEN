@@ -1,0 +1,3 @@
+/home/pi/embedded/embedEXAMEN/Deel C/Build/CMakeFiles/rebuild_cache.dir
+/home/pi/embedded/embedEXAMEN/Deel C/Build/CMakeFiles/EMBEDDED_EXAMEN_C.dir
+/home/pi/embedded/embedEXAMEN/Deel C/Build/CMakeFiles/edit_cache.dir
